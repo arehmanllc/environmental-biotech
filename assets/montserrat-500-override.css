@@ -1,0 +1,20 @@
+/* Import Montserrat 500 from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+/* Montserrat font-weight 500 fix - applies to all body font elements using 500 */
+*[style*="font-weight: 500"],
+.f-body.b-500,
+.quantity__input,
+.button,
+button,
+.field__input[style*="font-weight: 500"],
+.b-500 {
+  font-family: 'Montserrat', var(--font-body-family) !important;
+  font-weight: 500 !important;
+}
+
+/* Ensure smooth loading */
+.font-montserrat-500 {
+  font-family: 'Montserrat', var(--font-body-family) !important;
+  font-weight: 500 !important;
+}

@@ -13,9 +13,29 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
+      "blocks": {
+        "announcement_Hae8ND": {
+          "type": "announcement",
+          "settings": {
+            "text": "Eco-Friendly Biotech Solutions for Odor, Waste & Drain Treatment",
+            "link": ""
+          }
+        },
+        "announcement_AtybmB": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_Hae8ND",
+        "announcement_AtybmB"
+      ],
       "settings": {
         "color_scheme": "background-2",
-        "show_line_separator": true,
+        "show_line_separator": false,
         "show_social": false,
         "auto_rotate": true,
         "change_slides_speed": 5,
@@ -29,12 +49,12 @@
       "settings": {
         "logo_position": "middle-left",
         "menu": "main-menu",
-        "menu_type_desktop": "dropdown",
-        "sticky_header_type": "reduce-logo-size",
-        "show_line_separator": false,
-        "color_scheme": "scheme-5514f9f2-8755-48cb-bb30-633f4eff8a4d",
-        "menu_color_scheme": "scheme-5514f9f2-8755-48cb-bb30-633f4eff8a4d",
-        "enable_country_selector": true,
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": true,
+        "color_scheme": "inverse",
+        "menu_color_scheme": "inverse",
+        "enable_country_selector": false,
         "enable_language_selector": false,
         "enable_customer_avatar": true,
         "mobile_logo_position": "center",

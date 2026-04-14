@@ -70,7 +70,8 @@
             {{- 'icon-reset.svg' | inline_asset_content -}}
           </button>
           <div class="country-filter__search-icon field__button motion-reduce">
-            {{- 'icon-search.svg' | inline_asset_content -}}
+            {% comment %} {{- 'icon-search.svg' | inline_asset_content -}} {% endcomment %}
+            {%- render 'icon-search' -%}
           </div>
         </div>
       {% endif %}

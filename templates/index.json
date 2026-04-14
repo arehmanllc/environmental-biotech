@@ -15,25 +15,25 @@
         "heading_YhknLa": {
           "type": "heading",
           "settings": {
-            "heading": "<strong> Environmental Biotech: Advanced Wastewater Bioremediation Solutions</strong>",
-            "heading_size": "h1"
+            "heading": "<p>Restore Flow, <br/>Eliminate Odor.</p>",
+            "heading_size": "hxl"
           }
         },
         "text_V49jAW": {
           "type": "text",
           "settings": {
-            "text": "We deliver customized, <a href=\"/pages/commercial-drainage-overview\">eco-friendly bioremediation solutions</a> for hospitality, industrial, and residential sectors—treating drain lines, sewers, lift stations, septic systems, oil spills, and more. Experts in managing FOG, mineral oils, odors, and hygiene challenges",
+            "text": "Advanced biotech solutions that break down waste, clear drains, and deliver long-lasting freshness.",
             "text_style": "subtitle"
           }
         },
         "buttons_3CzemK": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Products Now",
+            "button_label_1": "Shop Solutions",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_2": "Shop All Products",
+            "button_link_2": "shopify://blogs/news",
             "button_style_secondary_2": false
           }
         }
@@ -46,15 +46,15 @@
       "settings": {
         "image": "shopify://shop_images/Homepage_v02_logos.jpg",
         "image_overlay_opacity": 30,
-        "image_height": "adapt",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-7384c829-f10d-4ded-93ae-cb95a4b656a8",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "about_us": {
