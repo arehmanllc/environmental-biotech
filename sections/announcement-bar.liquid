@@ -67,7 +67,8 @@
             aria-controls="Slider-{{ section.id }}"
           >
             <span class="svg-wrapper">
-              {{- 'icon-caret.svg' | inline_asset_content -}}
+              {% comment %} {{- 'icon-caret.svg' | inline_asset_content -}} {% endcomment %}
+              {%- render 'icon-caret' -%}
             </span>
           </button>
           <div
@@ -123,7 +124,8 @@
             aria-controls="Slider-{{ section.id }}"
           >
             <span class="svg-wrapper">
-              {{- 'icon-caret.svg' | inline_asset_content -}}
+              {% comment %} {{- 'icon-caret.svg' | inline_asset_content -}} {% endcomment %}
+               {%- render 'icon-caret' -%}
             </span>
           </button>
         </div>
