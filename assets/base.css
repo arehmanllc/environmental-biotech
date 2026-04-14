@@ -571,6 +571,8 @@ hr {
   text-decoration: none;
   color: currentColor;
   display: block;
+  font-family: var(--font-body-family);
+  font-weight: 700;
 }
 
 .placeholder {
@@ -885,6 +887,7 @@ summary::-webkit-details-marker {
   line-height: calc(1 + 0.8 / var(--font-body-scale));
   letter-spacing: 0.06rem;
   color: rgba(var(--color-foreground), 1);
+  line-height: 26.4px;
 }
 
 .subtitle--small {

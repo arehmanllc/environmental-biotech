@@ -2,3 +2,12 @@
 .banner__heading p{
   margin: 0;
 }
+.banner .button--primary:first-child{
+  --initial-gradient:linear-gradient(rgb(255,255,255), rgb(255,255,255));
+  color: #0F4872;
+}
+.banner .button{
+  font-size: clamp(14px,2vw,18px);
+  font-weight: 700 !important;
+  line-height: normal;
+}
