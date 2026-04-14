@@ -1,0 +1,101 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_3tUngC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QxrywT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Unforgettable Branding</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_HmPAx9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your own private labeled, EPA Safer Choice Approved product<br/>is an exceptional add-on sale on every job and a perfect way to leave your “Unforgettable Brand” behind to your customers! Like most service companies, you want your own private label that contains your company logo and call back information. The problem always has been the high minimum bottle purchase and the cost of your own professionally printed labels.</p><p><strong>Environmental Biotech now offers, a low cost and low<br/>minimum case purchase!</strong></p><p>How important is keeping YOUR company name in your current customer’s home? How much do you currently spend marketing to current and past customers, so that emergency phone call goes to you and not your competitor? Keeping your name and brand in your customer’s home maximizes the chance of the customer calling you when that toilet plugs, or the faucet leaks. Traditional branding items such as pens, magnets, and stickers always end up in the trash<br/>of junk drawer.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QxrywT",
+        "text_HmPAx9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/label.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_RnXXQe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ctxYrg": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Customer Confidence and Safety</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_xnpU3R": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your customers are always searching for green accredited<br/>cleaning and maintenance products that are safer for their families and the environment. Products with the EPA’s (Environmental Protection Agency) Safer Choice label make it easy for consumers to purchase with safer chemical ingredients, without sacrificing quality or performance.</p><p>Imagine what having your own private labeled product accompanied by the Safer Choice approval will do for your customers, your business image and the environment.</p><p>When consumers see the Safer Choice label on a product, they can be confident that the ingredients have been through a rigorous EPA review. The label means that EPA scientists have evaluated every ingredient in the product to ensure it meets Safer Choice criteria.</p><p>When people use Safer Choice products, they are protecting their families and the environment by making safer chemical choices.</p><p>Empowering consumers to quickly identify and choose safer products benefits the environment and human health. Products that carry the<br/>Safer Choice label are safer for fish and other aquatic life, do not pollute air or waterways, and do not add harmful chemicals to the land.</p><p><strong>There is no additional cost for the Safer Choice<br/>approval, and we handle all the application details and fees.</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ctxYrg",
+        "text_xnpU3R"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/safe_choi.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_3tUngC",
+    "image_with_text_RnXXQe"
+  ]
+}

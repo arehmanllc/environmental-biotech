@@ -1,0 +1,101 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_3tUngC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QxrywT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Bar Drains and Soda Fountains</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_HmPAx9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>Sugars from alcohol and soda syrups can quickly accumulate and block drain lines in <a href=\"https://environmentalbiotech.ca/pages/commercial-drainage-overview\" title=\"https://environmentalbiotech.ca/pages/commercial-drainage-overview\"><strong>bar drains and soda dispenser systems</strong></a>. Due to their narrow size and hidden placement, these lines are extremely difficult to clean using mechanical methods like jetting or snaking. In fact, such procedures often risk damaging the drainage system, potentially shutting down soda fountain operations. Traditional cleaning products used on bar surfaces and floors are not designed to break down sugary residue and are ineffective in clearing these types of clogs. On the other hand, harsh chemical drain cleaners may corrode pipes or push the blockage deeper into the system. As sugar buildup worsens, it emits strong, unpleasant odors—disrupting staff and leaving customers with a negative impression of cleanliness and hygiene.<br/><br/></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QxrywT",
+        "text_HmPAx9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/dirty-soda-dispenser-2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_RnXXQe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ctxYrg": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Sugar Control</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_xnpU3R": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Soda fountains that mix syrup with carbonated water often face serious drain problems due to sugar buildup in the lines. With minimal water flow, the sugar solidifies into a sticky gel that leads to foul odors, persistent blockages, and infestations of <a href=\"https://environmentalbiotech.ca/pages/understanding-odors\" title=\"https://environmentalbiotech.ca/pages/understanding-odors\">drain flies</a>. These pests can carry and spread harmful bacteria, making their elimination a high priority in any hygiene-conscious environment.</p><p>Installing an <strong>EB Micro Drip or Drip System</strong> with our <strong>Sugar Eradication Bacteria</strong>, or applying <strong>Flow Fresh Gel</strong> or <strong>EBIO FOAM</strong>, allows consistent dosing of the drain lines. This effectively breaks down sugar buildup, keeps lines clear, eliminates bad smells, and removes the breeding ground for drain flies. Perfect for soda machine drains in <strong>bars, pubs, and restaurants</strong>, this solution provides a clean, cost-effective fix. Contact us to find the right program to fit your needs and budget.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ctxYrg",
+        "text_xnpU3R"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/sugar-control-2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_3tUngC",
+    "image_with_text_RnXXQe"
+  ]
+}

@@ -1,0 +1,119 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_gMWt6U": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bib8rj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Use Dipstick Pro<strong>™</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_7ANXgn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The<a href=\"https://environmentalbiotech.ca/products/dipstick-pro%E2%84%A2\" title=\"https://environmentalbiotech.ca/products/dipstick-pro%E2%84%A2\"> DipStick Pro™ </a>is a reliable and easy-to-use core sampler engineered to accurately determine the levels of grease, solids, and sludge in grease traps, interceptors, septic systems, clarifiers, and sludge basins. Trusted by pretreatment experts nationwide, the <strong>DipStick Pro™</strong> is the tool of choice when precise, consistent, and legally defensible core samples are needed for evaluating FOG accumulation in containment units. Known for its rugged build, simplicity, and superior accuracy, it surpasses tools like the Sludge Judge in performance.</p><p></p><p>Beyond grease systems, the DipStick Pro™ is highly adaptable and provides dependable measurements of liquid levels in various storage tanks, including those holding oil, fuel, and other liquid substances.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_hKFpi9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Core Sampler",
+            "button_link": "shopify://products/dipstick-pro™",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bib8rj",
+        "text_7ANXgn",
+        "button_hKFpi9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Untitled_2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_dMKnyk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wFaJPk": {
+          "type": "heading",
+          "settings": {
+            "heading": "FOG and Sludge Sampling",
+            "heading_size": "h2"
+          }
+        },
+        "text_Mqytwd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The <a href=\"https://environmentalbiotech.ca/products/dipstick-pro%E2%84%A2\" title=\"https://environmentalbiotech.ca/products/dipstick-pro%E2%84%A2\"><strong>DipStick Pro™</strong></a> is a simple-to-use core sampling tool designed to precisely measure levels of grease, solids, or sludge in grease traps, interceptors, septic systems, clarifiers, and sludge basins.</p><p>Widely trusted by pretreatment professionals across the U.S., the <strong>DipStick Pro™</strong> is the go-to tool when accurate, consistent, and defensible core samples of FOG levels are needed in traps, interceptors, lift stations, and sludge pits.</p><p>Crafted from corrosion-resistant, precision-machined aluminum and durable, impact-resistant resin, the <strong>DipStick Pro™</strong> stands alone as the only core sampler featuring “ball valve” technology to ensure a true and undisturbed core sample.</p><p>A user-friendly T-handle and arm lever system controls the ball valve, allowing consistent operation and ensuring reliable, repeatable samples every time.</p><p>The <strong>DipStick Pro™</strong> comes in a standard 10-foot length (two sections—6’ and 4’) connected by a quick-coupling system for fast assembly. Extensions can be ordered to suit deeper systems. Unlike other samplers that include components disrupting the sample, the DipStick Pro™ provides clean, accurate measurements without distortion.</p><p>As the most rugged and reliable FOG sampler available, the DipStick Pro™ delivers a precise sample every single time.</p><p><strong>Simple Operation:</strong></p><ul><li>Insert DipStick Pro™ into the interceptor or trap</li><li>Pull the actuator handle to seal the ball valve and collect the sample</li><li>Remove the tool and wipe clean to inspect the contents</li><li>Log the measured grease, water, and solids</li></ul><p>Custom lengths can be tailored to meet your sampling needs. Contact us by phone or email for details.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_6Kyn36": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/dipstick-pro™",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wFaJPk",
+        "text_Mqytwd",
+        "button_6Kyn36"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/dip-stick-pro-by-environmental-biotech.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_gMWt6U",
+    "image_with_text_dMKnyk"
+  ]
+}

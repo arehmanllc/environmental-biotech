@@ -1,0 +1,110 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_gMWt6U": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bib8rj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mineral Oils",
+            "heading_size": "h2"
+          }
+        },
+        "text_7ANXgn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mineral Oil Elimination System – Tackling Mineral Oil and Environmental Impact. Mineral oil leaks, fuel spills, and similar discharges present serious environmental risks when they enter wastewater systems. High-profile incidents like the Exxon Valdez oil spill highlight the scale of damage such contamination can cause to ecosystems and water sources.</p><p>To address these challenges, our team has developed a cutting-edge range of solutions designed to eliminate mineral oil contamination. Locations such as gas stations, which typically use oil/water interceptors, are ideal for these treatments. These closed-loop systems are more manageable to treat, improving wastewater quality and reducing the likelihood of violations or penalties from regulatory agencies.</p><p>By adopting a customized pretreatment plan from Environmental Biotech, your facility can proactively prevent discharge issues and avoid costly environmental fines.</p><p>Our latest innovation includes a specialized product line developed specifically for mineral oil removal: <a href=\"https://environmentalbiotech.ca/products/ecopure\" title=\"https://environmentalbiotech.ca/products/ecopure\"><strong>ECO PURE</strong></a> and <a href=\"https://environmentalbiotech.ca/products/ecopure\" title=\"https://environmentalbiotech.ca/products/ecopure\"><strong>SOIL GUARD</strong></a>—engineered to effectively eliminate mineral oils and support cleaner, safer wastewater management.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_hKFpi9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/mineral-oil-elimination",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bib8rj",
+        "text_7ANXgn",
+        "button_hKFpi9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/correctsizeimage_0010_32oz36094-sprayer-bottle-mockupsoilguard.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_dMKnyk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wFaJPk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>EcoPure & Soil Guard: Natural Hydrocarbon Eliminator</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_Mqytwd": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://environmentalbiotech.ca/products/ecopure\" title=\"https://environmentalbiotech.ca/products/ecopure\"><strong>EcoPure</strong></a> and <a href=\"https://environmentalbiotech.ca/products/ecopure\" title=\"https://environmentalbiotech.ca/products/ecopure\"><strong>Soil Guard</strong></a> are highly effective petroleum and hydrocarbon cleanup solutions that leverage advanced bioscience and bioremediation methods. These products utilize naturally occurring, non-pathogenic bacteria to break down and remove petroleum compounds and hydrocarbons from contaminated environments.</p><p>When applied to affected areas, the microbial action rapidly accelerates the breakdown process, targeting oil and fuel residues for complete degradation. The specially formulated blend boosts microbial efficiency, resulting in the conversion of contaminants into harmless by-products—leaving behind only carbon dioxide and water.</p><p>This environmentally friendly approach leaves no toxic residue and provides a safe, reliable, and affordable option for cleaning up fuel spills on surfaces such as pavement, concrete, soil, grass, and water. EcoPure and Soil Guard are simple to apply and deliver powerful results without harming the environment.</p><p><strong>Effective Against:</strong></p><ul><li>Gasoline</li><li>Motor oil</li><li>Diesel fuel</li><li>Coal tar</li><li>Crude oil</li><li>Fuel oils</li></ul><p><strong>Applications:</strong></p><ul><li>Petroleum-contaminated wastewater</li><li>Wastewater pumps</li><li>Holding tanks</li><li>Contaminated soil</li><li>Oil and grease separators</li></ul><p><strong>Available Options:</strong></p><ul><li>EcoPure 32 oz</li><li>EcoPure 1 gallon</li><li>Soil Guard 1 gallon</li><li>Soil Guard Powder (for 5 gallons)</li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wFaJPk",
+        "text_Mqytwd"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/correct_size_image_0004_ECO_PURE_Gallon.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_gMWt6U",
+    "image_with_text_dMKnyk"
+  ]
+}

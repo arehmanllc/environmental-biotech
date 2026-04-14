@@ -1,0 +1,219 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_G9q9YD": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Hnqm4j": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our environmentally friendly products are highly effective in resolving common household issues such as clogged kitchen and bathroom drains. We also provide specialized treatments designed to restore and <a href=\"https://environmentalbiotech.ca/products/septic-aid-powder-sachets-12-pack\" title=\"https://environmentalbiotech.ca/products/septic-aid-powder-sachets-12-pack\">maintain home septic systems</a>, preventing costly backups and failures.</p><p>In addition, our odor-control products tackle a wide range of unpleasant smells—whether it’s pet accidents, garbage odors, or lingering household smells. With a focus on eco-safe, natural biotechnology, Environmental Biotech helps keep your home clean, fresh, and functioning efficiently.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Hnqm4j"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_Uz6pA4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LdixKE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kitchen and Bath Drainage Issues",
+            "heading_size": "h2"
+          }
+        },
+        "text_86wez9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>These substances gradually build up in pipes, restricting flow and eventually causing clogs and costly backups. At Environmental Biotech, we offer advanced bio-enzymatic solutions specifically designed to break down and eliminate these organic accumulations.</p><p>Our eco-friendly products help keep your drainage system clear, reduce the risk of plumbing emergencies, and save you money on repairs—naturally and effectively.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_GHQAhH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out More",
+            "button_link": "shopify://pages/residential-drainage-solutions",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LdixKE",
+        "text_86wez9",
+        "button_GHQAhH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/plumber-1-400x267.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_7G77e9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TXXpfF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Septic System Issues",
+            "heading_size": "h2"
+          }
+        },
+        "text_NUULqj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The term \"septic\" refers to the anaerobic (oxygen-free) bacterial environment within the tank, where naturally occurring bacteria work to break down and decompose household waste.</p><p>However, everyday use of harsh chemicals like bleach, disinfectants, and cleaning agents can disrupt or destroy these essential bacterial populations. When this happens, your septic system may fail to function properly, leading to blockages, unpleasant odors, or costly repairs.</p><p>Environmental Biotech offers <a href=\"https://environmentalbiotech.ca/products/septic-aid-powder-sachets-12-pack\" title=\"https://environmentalbiotech.ca/products/septic-aid-powder-sachets-12-pack\">septic-safe</a>, bacteria-boosting treatments that restore and maintain healthy bacterial levels—ensuring your system runs efficiently and effectively.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_rhrJtM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Septic Aid",
+            "button_link": "shopify://pages/septic-aid",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TXXpfF",
+        "text_NUULqj",
+        "button_rhrJtM"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/septic.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_jVkrLm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_L9dBLw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Residential Odor Solutions",
+            "heading_size": "h2"
+          }
+        },
+        "text_ggxEhL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>These foul smells are more than just a nuisance; they can leave a lasting negative impression on guests, who may associate the odor with poor hygiene or cleanliness.</p><p>Environmental Biotech offers advanced <a href=\"https://environmentalbiotech.ca/products/odor-eliminator-concentrate\" title=\"https://environmentalbiotech.ca/products/odor-eliminator-concentrate\">odor control solutions</a> designed to target the source of the smell, not just mask it. Backed by our extensive expertise in biological treatment, our products effectively eliminate stubborn household odors—leaving your home fresh, clean, and welcoming.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_dURkRm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out More",
+            "button_link": "shopify://pages/disinfection-and-sanitizing-products",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_L9dBLw",
+        "text_ggxEhL",
+        "button_dURkRm"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/residential-odors-400x303_1e011081-bf0b-4037-8e23-4c41b0d8a370.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "featured_collection_LKEqc6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Odor Elimination",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "odor-elimination",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_G9q9YD",
+    "image_with_text_Uz6pA4",
+    "image_with_text_7G77e9",
+    "image_with_text_jVkrLm",
+    "featured_collection_LKEqc6"
+  ]
+}

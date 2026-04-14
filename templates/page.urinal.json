@@ -1,0 +1,167 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_CBQNxe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mDBEVr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Urinals and Urine Odors",
+            "heading_size": "h2"
+          }
+        },
+        "text_7jgUKi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://environmentalbiotech.ca/products/urine-free\" title=\"https://environmentalbiotech.ca/products/urine-free\">Urine</a> is produced daily and often overlooked—yet if unmanaged, it can quickly become a persistent issue. Environmental Biotech develops targeted solutions used in airports, schools, bus stations, restrooms, pubs, health clinics, hospitals, care homes, and highway rest areas.</p><p>Wherever urine odors, crystal deposits, or staining occur, our products deliver effective and lasting treatment.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_atDmr3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/urine-free",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mDBEVr",
+        "text_7jgUKi",
+        "button_atDmr3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Urinals-1-800x533.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_6MckTw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nUE7Gn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Flow Fresh® is THE Urinal Treatment Solution:</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_fmqE9j": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Removes uric crystal build up in urinals and drain lines, removes mineral build ups on the porcelain surfaces and deodorises at the same time. (Available in liquid and GEL)</p><p>Softens and removes uric crystals from the urinals and drain lines, therefore preventing blockages, backups and smells.</p><ul><li>Cost effective</li><li>Removes the need for de-scaling</li><li>Reduces blockages</li><li>Keeps smells down</li><li>Easy maintenance</li><li>Easy to use – can be dosed via dispensers or use as a drip<br/>     solution or Gel solution</li></ul><p><a href=\"https://environmentalbiotech.ca/products/flow-fresh-gel\" title=\"https://environmentalbiotech.ca/products/flow-fresh-gel\">Flow Fresh®</a> can also be dispensed from large containers and pumped by special pumps behind large urinal banks.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cmyL4y": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/flow-fresh-gel",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nUE7Gn",
+        "text_fmqE9j",
+        "button_cmyL4y"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/flow-fresh-gel-by-environmental-biotech_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_D6GYBX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CfakgT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Urine Odor</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nycXyP": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Urinefree</strong> is a versatile solution that can be applied wherever it's needed—whether in toilets, urinals, or even in laundry to remove urine stains. It’s also highly effective at eliminating stale alcohol odors from wooden bar counters, removing vomit smells and stains, and treating carpets, upholstery, and more.</p><p>Where urine is present, our powerful <strong>bio-enzymatic formula</strong> works by breaking down the uric acid crystals at the source.</p><p>When applied correctly, it eliminates both the odor and the stain—leaving your facility clean, hygienic, and fresh.</p><p>Urinals are a common source of odor. Environmental Biotech’s <strong>Flow Fresh®</strong> system, available in screen, gel, or drip formats, targets the issue directly—eliminating odors and keeping plumbing lines clear. <strong>No more urinal drain blockages!</strong></p><p>Visit <a>www.urinefree.com</a> to learn more.</p><p>We also offer a complete program for traditional and waterless urinals—a <strong>cost-effective solution</strong> to a long-standing problem. Try it and experience the results yourself.</p><p>The program is proven effective in restrooms, nursing homes, schools, bedding, clothing, furniture, pet training areas, pet accidents, carpet stains—even vomit and blood cleanup.</p><p><strong>Seeing is believing</strong> when it comes to the true power of bioremediation!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_EXtUJW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/urine-free",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CfakgT",
+        "text_nycXyP",
+        "button_EXtUJW"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/UrineFree-118ml-spray-1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_CBQNxe",
+    "image_with_text_6MckTw",
+    "image_with_text_D6GYBX"
+  ]
+}

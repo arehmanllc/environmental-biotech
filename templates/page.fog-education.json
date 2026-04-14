@@ -1,0 +1,62 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_3tUngC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QxrywT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Grease Summits</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_HmPAx9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Education and Training</strong></p><p>Environmental Biotech will design and conduct education & training courses on FOG for:</p><ul><li>Water Authorities</li><li>Government</li><li>Environmental Health Department</li><li>Corporate entities / Staff</li></ul><p>Courses / Training can range from 15 minutes to 8 hours for<br/>a full Grease Summit.</p><p>Environmental Biotech has trained numerous water authorities world wide from Australia, Canada, USA, United Kingdom, Mexico, India, East Africa and South Africa.</p><p>A Grease Summit was ALSO conducted in conjunction with the APWA (Amercian public Works Association in Seattle, Washington– at the Bellevue City Hall and opened by the Mayor of Bellevue.</p><p><strong>The Grease summit covers many areas including:</strong></p><ul><li>Grease Trap Design: the myths facts and fallacies</li><li>Disposal: How? Where? And who wants it?</li><li>Solutions – what works, what does not and why</li><li>Regulations: the good, the bad and the ugly.</li><li>How do you stop the problem?</li></ul><p>The course goes in depth into many related to FOG and gives you a better understand on managing the problem.</p><p>Environmental Biotech can also assist local government in writing their FOG ordinances, simply and effectively so as to get the right programme put into place that makes sense for all stakeholders.</p><p><strong>Are you or your city / county looking to put into play a FOG ordinance? If you would like help in this area contact us.</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QxrywT",
+        "text_HmPAx9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/learning.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_3tUngC"
+  ]
+}

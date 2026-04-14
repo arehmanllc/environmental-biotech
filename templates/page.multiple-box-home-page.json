@@ -1,0 +1,249 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_frHKgN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EJgXaC": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_dHHdj7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At <strong>Environmental Biotech</strong>, we specialize in cutting-edge <strong>bioremediation technology</strong>—a natural and eco-friendly solution that uses live vegetative bacteria to break down grease, sugars, and organic waste that commonly clog <a href=\"https://environmentalbiotech.ca/pages/commercial-drainage-overview\" title=\"https://environmentalbiotech.ca/pages/commercial-drainage-overview\">commercial drainage systems</a>. Unlike many products on the market that rely on dormant spore-based bacteria, our live bacteria get to work immediately, delivering fast and effective results. Because they are non-toxic, non-pathogenic, and fully active upon application, our solutions offer a superior, environmentally responsible alternative to traditional drain maintenance.</p><p>In addition to bioremediation, <strong>Environmental Biotech</strong> manufactures a full line of <strong>EPA-registered disinfectants</strong>. These high-performance products are formulated to eliminate harmful pathogens, including viruses, bacteria, and fungi. Whether you're safeguarding your home, business, or workplace, our disinfectants provide powerful protection against foodborne illnesses and contagious diseases—helping you maintain a cleaner, healthier environment for your family, customers, and employees.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EJgXaC",
+        "text_dHHdj7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_Uz6pA4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LdixKE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Drain Lines and Grease Traps",
+            "heading_size": "h2"
+          }
+        },
+        "text_86wez9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>Grease and fats naturally float on water, causing them to stick and solidify along the walls and ceilings of your drain lines. Meanwhile, sugars and starches sink and accumulate at the bottom, eventually leading to stubborn clogs and slow drainage. Over time, this organic buildup results in unpleasant odors, provides an ideal breeding ground for drain flies, and forces grease traps or interceptors to require constant, costly cleaning.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_GHQAhH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out More",
+            "button_link": "shopify://pages/grease-recovery-units",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LdixKE",
+        "text_86wez9",
+        "button_GHQAhH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Grease-trap-2-1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_7G77e9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TXXpfF": {
+          "type": "heading",
+          "settings": {
+            "heading": "FOG and Sludge Sampling",
+            "heading_size": "h2"
+          }
+        },
+        "text_NUULqj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The <strong>DipStick Pro™</strong> is a simple, reliable core sampling tool designed to accurately measure grease, solids, and sludge levels in <strong>grease traps, interceptors, septic tanks, clarifiers</strong>, and <strong>sludge pits</strong>. Easy to use and highly effective, it's widely trusted by pretreatment professionals across the United States.</p><p>These industry experts rely on the <strong>DipStick Pro™</strong> when they need precise, consistent, and legally defensible measurements of <strong>FOG (Fats, Oils, and Grease)</strong> in systems like grease traps, interceptors, lift stations, and sludge pits. Its accuracy and repeatability make it the preferred choice for regulatory compliance and routine monitoring.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_rhrJtM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Dipstick Pro™",
+            "button_link": "shopify://pages/dipstick-pro™",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TXXpfF",
+        "text_NUULqj",
+        "button_rhrJtM"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/dip-stick-pro.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_jqYzdF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ExBxnV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/dirty-soda-dispenser-2.jpg",
+            "title": "Bar Drains and Soda Fountains",
+            "text": "",
+            "link_label": "Find out more",
+            "link": "shopify://pages/commercial-bar-drain-and-soda-fountain-solutions"
+          }
+        },
+        "column_n4QKWp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Picture_LIFT_station.jpg",
+            "title": "Lift Stations/Pump Stations & Hydrogen Sulphide Issues",
+            "text": "",
+            "link_label": "Find out more",
+            "link": "shopify://pages/lift-stations-pump-stations-hydrogen-sulphide-issues"
+          }
+        },
+        "column_6UD9bx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Kitchen-Oil-Wizard.jpg",
+            "title": "Grease Traps and Grease Recovery Units",
+            "text": "",
+            "link_label": "Find out more",
+            "link": "shopify://pages/grease-recovery-units"
+          }
+        }
+      },
+      "block_order": [
+        "column_ExBxnV",
+        "column_n4QKWp",
+        "column_6UD9bx"
+      ],
+      "settings": {
+        "title": "Commercial Drainage Solutions",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "collection_list_7AA7yP": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xKHrri": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "drainage"
+          }
+        },
+        "featured_collection_NzrUhV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dipstick-pro™"
+          }
+        },
+        "featured_collection_XtwDnp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "odor-elimination"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xKHrri",
+        "featured_collection_NzrUhV",
+        "featured_collection_XtwDnp"
+      ],
+      "settings": {
+        "title": "Product Solutions",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 8
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_frHKgN",
+    "image_with_text_Uz6pA4",
+    "image_with_text_7G77e9",
+    "multicolumn_jqYzdF",
+    "collection_list_7AA7yP"
+  ]
+}

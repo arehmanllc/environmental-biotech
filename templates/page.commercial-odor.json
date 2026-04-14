@@ -1,0 +1,100 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_CBQNxe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mDBEVr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Odor Control",
+            "heading_size": "h2"
+          }
+        },
+        "text_7jgUKi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Foul odors from drains, urinals, and waste areas are an unpleasant problem no facility wants to face. These stomach-turning smells can quickly lead visitors to assume the space is unclean—even if it’s spotless—because their nose signals something is wrong. With the right <a href=\"https://environmentalbiotech.ca/products/odor-eliminator-concentrate\" title=\"https://environmentalbiotech.ca/products/odor-eliminator-concentrate\">odor control products</a> and Environmental Biotech’s expert guidance, these odors can be eliminated for good.</p><p>Most odor solutions on the market are just temporary cover-ups, using artificial scents to mask the real problem. They may fill the air with floral notes, but the original odor source still lingers beneath. At Environmental Biotech, we take a different approach—using natural essential oils that work as molecular odor counteractants, neutralizing the smell instead of hiding it.</p><p>Our odor control line goes beyond scent. It uses targeted bacterial blends that attack the root cause of the odor, breaking it down at the source. When combined with essential oils, this advanced formula ensures reliable and lasting odor removal every time.</p><p>Browse our shop to find the best <a href=\"https://environmentalbiotech.ca/products/odor-eliminator-concentrate\" title=\"https://environmentalbiotech.ca/products/odor-eliminator-concentrate\">odor control solutions</a> for your facility.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_atDmr3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/urine-free",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mDBEVr",
+        "text_7jgUKi",
+        "button_atDmr3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/odor-solutions-800x640.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "featured_collection_9V4LEG": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Odor Elimination Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "odor-elimination",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_CBQNxe",
+    "featured_collection_9V4LEG"
+  ]
+}

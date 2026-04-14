@@ -1,0 +1,140 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_3tUngC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QxrywT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Lift Stations/Pump Stations &Hydrogen Sulfide Issues</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_HmPAx9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lift stations often end up functioning like unintended grease traps, as water sits long enough for <a href=\"https://environmentalbiotech.ca/pages/fog-education-and-training\" title=\"https://environmentalbiotech.ca/pages/fog-education-and-training\"><strong>FOG (Fats, Oils, and Grease)</strong></a> to cool, separate, and accumulate. This buildup typically coats the pumps, leading to overheating and disrupting the performance of float switches—ultimately causing system failures.</p><p><strong>Environmental Biotech’s customized lift station treatment programs</strong> are designed to target and break down FOG, helping extend the life of pumps and floats while improving overall efficiency. This means less energy usage, fewer breakdowns, and no unpleasant odors.</p><p>Our <strong>Bio Lift Systems</strong> introduce a blend of diffused oxygen and bio media to enhance the breakdown of FOG, organic solids, and other waste materials. The result is cleaner lift station operations, better odor control, and optimal system performance.</p><p>You’ll notice visible improvements within just one to two weeks.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QxrywT",
+        "text_HmPAx9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Lift-station-2-400x400.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_RnXXQe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ctxYrg": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Lift/ Pump Station Management /Maintenance</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_xnpU3R": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Lift & Pump Station Maintenance and Management</strong></p><p>Any facility equipped with lift or pump stations understands the critical need for reliable operation. When these systems fail, it can lead to serious consequences—wastewater backups, property damage, and major disruptions for customers and operations.</p><p>Since pump stations operate in harsh, corrosive sewage environments, regular, preventative maintenance is essential to keep mechanical components functioning properly.</p><p><strong>Cleaning and FOG Control</strong></p><p>Sewage pump stations often experience heavy accumulation of non-biodegradable debris and <a href=\"https://environmentalbiotech.ca/pages/fog-education-and-training\" title=\"https://environmentalbiotech.ca/pages/fog-education-and-training\">FOG (Fats, Oils, and Grease)</a>. Over time, these layers interfere with float switch performance and can allow items like rags or paper to pass through and damage pumps, leading to costly failures. Routine cleaning and FOG treatment are vital to prevent such issues.</p><p><strong>FOG Buildup and Equipment Failure</strong></p><p>FOG is a leading cause of pump station malfunction. It collects around floats, pump surfaces, and inside pipework or manifolds—accelerating wear and increasing the risk of system breakdowns.</p><p>As FOG management specialists, Environmental Biotech offers an effective solution with our BIO Lift system, which delivers live bacteria that actively digests FOG. At the same time, the system introduces diffused oxygen, helping reduce odors and keep your pump station running efficiently and reliably.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ctxYrg",
+        "text_xnpU3R"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Picture_LIFT_station.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_rbdXdR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_YpkKDj": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Hydrogen Sulfide Issues </strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_y3Nqjy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hydrogen sulfide (H₂S) is a serious problem in sewer systems—not only is the gas toxic, but it also leads to the formation of sulfuric acid, which corrodes pipes, pump stations, and critical infrastructure over time.</p><p>Environmental Biotech offers a specialized biological treatment program designed to reduce H₂S buildup effectively. This tailored solution can be applied in lift stations and sewer lines, delivering powerful results that improve safety and extend the life of your assets.</p><p>Ask us about our customized Bio Lift and H₂S control packages, designed to match your infrastructure needs. You'll experience more efficient lift station performance, reduced odors, less FOG accumulation, and fewer breakdowns—while keeping H₂S levels in check. A complete win-win for long-term operational health.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YpkKDj",
+        "text_y3Nqjy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/p_ic.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_3tUngC",
+    "image_with_text_RnXXQe",
+    "image_with_text_rbdXdR"
+  ]
+}

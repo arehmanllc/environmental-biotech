@@ -1,0 +1,101 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_TkbTCM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TRAMDf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Drain Lines and Grease Traps",
+            "heading_size": "h2"
+          }
+        },
+        "text_tkV8Wc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grease and fats naturally rise and stick to the top and sides of your drain lines, while sugars and starches sink and build up at the bottom, eventually leading to blockages. This creates foul odors, attracts drain flies, requires frequent grease trap or interceptor maintenance, and often results in clogged leach fields. In severe cases, the buildup contributes to pollution and can lead to costly fines and wastewater surcharges.</p><p>By using <a href=\"https://environmentalbiotech.ca/products/grease-blast?variant=43578945536034\" title=\"https://environmentalbiotech.ca/products/drip-injection-system\"><strong>Environmental Biotech’s live vegetative bacteria</strong></a>, you can prevent these issues entirely—eliminating drain line blockages, reducing odors, and avoiding expensive equipment repairs and downtime for your facility.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TRAMDf",
+        "text_tkV8Wc"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Grease-trap-2-1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_njxwAx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jJbzLf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Grease Traps and  Grease Recovery Units",
+            "heading_size": "h2"
+          }
+        },
+        "text_wFJgf7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Today, many grease traps installed in restaurants and commercial facilities fail to perform effectively—often due to being undersized or not properly cleaned and maintained according to manufacturer guidelines. Whatever your grease management needs, Environmental Biotech offers tailored solutions to ensure your system runs efficiently.</p><p>We collaborate closely with our clients to design and install appropriately sized grease traps that meet operational demands and compliance standards. In locations where space is limited, we also supply and coordinate the installation of <a href=\"https://environmentalbiotech.ca/products/drip-injection-system\" title=\"https://environmentalbiotech.ca/products/drip-injection-system\">Grease Recovery Units (GRUs)</a> as a compact, efficient alternative.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jJbzLf",
+        "text_wFJgf7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_3900_10.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_TkbTCM",
+    "image_with_text_njxwAx"
+  ]
+}

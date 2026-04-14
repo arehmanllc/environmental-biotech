@@ -1,0 +1,167 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_CBQNxe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mDBEVr": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>GESPlus™</strong> ",
+            "heading_size": "h2"
+          }
+        },
+        "text_7jgUKi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>GES Plus™</strong> biological drain treatment will eliminate these accumulations in the drainage system and reduce costly back-ups. Live naturally occurring bacteria and enzymes use the<br/>Power of Mother Nature to remove drain blockages naturally. <strong>GES Plus™</strong> is a natural, EPA recognized product. EPA scientists have evaluated every ingredient in the product to ensure it meets Safer Choice’s stringent criteria. <strong>GES Plus™</strong> also contains a powerful essential oil to eliminate even the strongest odors. This solution is ideal for use in multi-storey buildings and helps keeps stack clean for the whole property.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_atDmr3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/ges-plus™",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mDBEVr",
+        "text_7jgUKi",
+        "button_atDmr3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/GES-plus-by-environmental-biotech_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_6MckTw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nUE7Gn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Flow Fresh Gel</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_fmqE9j": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Flow Fresh Bio-Enzymatic Gel</strong> is a fast-acting cleaner made to cling to the inside of drains and urinals to eliminate odors and improve flow. <strong>Flow Fresh Gel</strong> provides complete drain maintenance for urinals/toilets, drains, grease traps, and garbage disposals. Additionally, <strong>Flow Fresh Gel</strong> will eradicate pesky Drain Flies by eliminating their food source and breeding grounds.</p><p>All safer choice approved</p><p></p>",
+            "text_style": "body"
+          }
+        },
+        "button_cmyL4y": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/flow-fresh-gel",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nUE7Gn",
+        "text_fmqE9j",
+        "button_cmyL4y"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/flow-fresh-gel-by-environmental-biotech_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_D6GYBX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CfakgT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Envirowash</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nycXyP": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>EnviroWash</strong> contains a beneficial blend of bacteria which break down decaying organic matter that causes foul smells. It is perfect to spray on dumpster areas, bathrooms, outdoor patios, or any place where bad odors persist.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_EXtUJW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "https://environmentalbiotech.ca/collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CfakgT",
+        "text_nycXyP",
+        "button_EXtUJW"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/enviro-wash-by-environmental-biotech_1_b6ccd3df-5b5c-4ede-8644-20cdc5daad6d.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_CBQNxe",
+    "image_with_text_6MckTw",
+    "image_with_text_D6GYBX"
+  ]
+}

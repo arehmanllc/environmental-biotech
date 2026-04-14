@@ -1,0 +1,158 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_g89BJ8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ghJwhP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Septic System Issues",
+            "heading_size": "h2"
+          }
+        },
+        "text_cMCzKU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The term “septic” describes the oxygen-free (anaerobic) environment within the tank, where beneficial bacteria break down and digest household waste.</p><p>However, the use of common household chemicals—such as bleach, antibacterial cleaners, and harsh detergents—can disrupt or kill these vital bacteria. When bacterial levels drop, the system’s efficiency suffers, increasing the risk of clogs, backups, and costly repairs.</p><p>Environmental Biotech offers safe, biologically enhanced treatments that restore and maintain a healthy bacterial balance in your septic system—ensuring long-term performance and reliability.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ghJwhP",
+        "text_cMCzKU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/septic.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_VXbmy7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mwDa3T": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>SepticAid™</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_C8fqKi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://environmentalbiotech.ca/products/septic-aid-septipods-6-pack\" title=\"https://environmentalbiotech.ca/products/septic-aid-septipods-6-pack\"><strong>Septic Aid™</strong></a> is designed to restore the natural bacterial balance in your septic system by introducing millions of powerful, beneficial bacteria. These bacteria support healthy microbial activity, helping to break down sludge and scum layers that can otherwise lead to backups or system failures.</p><p>Unlike ordinary septic treatments, Septic Aid™ offers a variety of easy-to-use application methods—including pourable liquids, flushable <em>Septipods</em>, and high-efficiency powered options—making it simple to choose the best fit for your home.</p><p>Every Septic Aid™ product is also formulated with built-in odor counteractants, delivering effective septic support while eliminating unpleasant smells from your home’s plumbing system.</p><h3><strong>Septic Aid™ Products for Home Use</strong></h3><p><strong>Septic Aid™ Liquid:</strong><br/><br/>Ideal for ongoing maintenance, just pour one capful weekly into kitchen sinks, bathroom drains, shower drains, or other household plumbing. This powerful liquid builds a protective biofilm to prevent clogs, hair buildup, soap residue, and odors—while also replenishing the beneficial bacteria your septic system depends on.</p><p><strong>Septic Aid™ Septipods:</strong><br/><br/>These water-soluble pouches offer a no-fuss solution—simply drop one in the toilet and flush. Perfect for homes with 2–4 bedrooms, Septipods help maintain a healthy bacterial balance and support long-term septic efficiency with minimal effort.</p><p><strong>Septic Aid™ Sachets:</strong><br/><br/>Similar in function to Septipods but designed for larger households (4+ bedrooms), Sachets deliver an extra boost of bacterial activity tailored to the demands of higher wastewater volume.</p><p>For optimal septic health, we recommend using <strong>Septic Aid™ Septipods or Sachets</strong> monthly as part of your regular home maintenance routine.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_eEXgCn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/septic-aid",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mwDa3T",
+        "text_C8fqKi",
+        "button_eEXgCn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/septic-aid-by-environmental-biotech_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_gUAwpA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iffYpR": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Pit Latrines</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_x3pbpy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://environmentalbiotech.ca/products/septic-aid-powder-sachets-12-pack\" title=\"https://environmentalbiotech.ca/products/septic-aid-powder-sachets-12-pack\"><strong>Septic Aid™</strong></a> also provides reliable, user-friendly solutions for maintaining pit latrines. Whether you're managing a temporary site or rely on a pit latrine daily, there's no need to settle for unpleasant conditions.</p><p>Our specially formulated liquid and powered treatments accelerate the breakdown of waste, improve overall system performance, and include natural odor counteractants to significantly reduce foul smells.</p><p>The result? A cleaner, more hygienic environment and extended longevity of your pit latrine system. It’s a smart, practical solution that boosts sanitation and user comfort.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_FtircL": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/septic-aid",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iffYpR",
+        "text_x3pbpy",
+        "button_FtircL"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/septic-aid-by-environmental-biotech_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_g89BJ8",
+    "image_with_text_VXbmy7",
+    "image_with_text_gUAwpA"
+  ]
+}

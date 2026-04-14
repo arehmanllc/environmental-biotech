@@ -1,0 +1,167 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_CBQNxe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mDBEVr": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>UrineFree™</strong> ",
+            "heading_size": "h2"
+          }
+        },
+        "text_7jgUKi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Urine Free™</strong> is widely used in homes around the world, providing the perfect remedy to both new and old urine deposits. <a href=\"https://environmentalbiotech.ca/products/urine-free\" title=\"https://environmentalbiotech.ca/products/urine-free\"><strong>Urine Free™</strong></a> removes the fine deposits of urine crystals which are invisible to the human eye. Safe to use on virtually any material, stains and odors are permanently removed. Containing billions of natural microbes, these bacteria use urine crystals as a food source and consume them through a completely natural and safe process known as bioremediation. <strong>Urine Free™</strong> can be used on both hard and soft surfaces, including tile, carpet, bedding, and more.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_atDmr3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/urine-free",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mDBEVr",
+        "text_7jgUKi",
+        "button_atDmr3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/UrineFree-118ml-spray-1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_6MckTw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nUE7Gn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>OdorFree™</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_fmqE9j": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://environmentalbiotech.ca/products/odor-eliminator-concentrate\" title=\"https://environmentalbiotech.ca/products/odor-eliminator-concentrate\"><strong>OdorFree™</strong></a> is a high performance, safe, odor control solution for pet odors. For large and small animals; use in cages, on bedding and all around the home. This uniqueformulation works indoors and outdoors leaving everything clean and fresh. Unlike air fresheners that mask odors temporarily, this unique chemical formulation provides long-lasting relief and uses nonharmful and non-toxic ingredients that are environmentally friendly. Ready and easy to use, lightly spray <strong>OdorFree™</strong> onto or around the problem area for immediate, long-lasting results</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cmyL4y": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "https://environmentalbiotech.ca/products/odor-eliminator-concentrate",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nUE7Gn",
+        "text_fmqE9j",
+        "button_cmyL4y"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Odor-Free.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_D6GYBX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CfakgT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Envirowash</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nycXyP": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>EnviroWash</strong> contains a beneficial blend of bacteria which break down decaying organic matter that causes foul smells. It is perfect to spray on dumpster areas, bathrooms, outdoor patios, or any place where bad odors persist.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_EXtUJW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "https://environmentalbiotech.ca/collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CfakgT",
+        "text_nycXyP",
+        "button_EXtUJW"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/enviro-wash-by-environmental-biotech_1_b6ccd3df-5b5c-4ede-8644-20cdc5daad6d.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_CBQNxe",
+    "image_with_text_6MckTw",
+    "image_with_text_D6GYBX"
+  ]
+}
