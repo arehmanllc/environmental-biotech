@@ -44,9 +44,9 @@
         "buttons_3CzemK"
       ],
       "settings": {
-        "image": "shopify://shop_images/Homepage_v02_logos.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "medium",
+        "image": "shopify://shop_images/Banner.png",
+        "image_overlay_opacity": 40,
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -55,6 +55,156 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "collection_list_paLgC7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Y7LVxe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dipstick-pro™",
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_1.png"
+          }
+        },
+        "featured_collection_rtFK4B": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "drainage",
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_2.png"
+          }
+        },
+        "featured_collection_FPF9w8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mineral-oil-elimination",
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_3.png"
+          }
+        },
+        "featured_collection_Qx8jwa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "odor-elimination",
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_4.png"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Y7LVxe",
+        "featured_collection_rtFK4B",
+        "featured_collection_FPF9w8",
+        "featured_collection_Qx8jwa"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Shop By Collection",
+        "heading_size": "h1",
+        "coll_description": "Explore solutions for every cleaning and maintenance need",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "accent-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_F8MtNi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TtjBW4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Built on Science. Trusted in Every Environment.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TtjBW4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "features_icons_RPt9pf": {
+      "type": "features-icons",
+      "blocks": {
+        "icon_kcbVBw": {
+          "type": "icon",
+          "settings": {
+            "url": "",
+            "heading": "Naturally Powerful",
+            "heading_width": 30,
+            "text": "Safe, eco-conscious solutions that work without harsh chemicals.",
+            "text_width": 30,
+            "image": "shopify://shop_images/Gemini_Generated_Image_ppnvrnppnvrnppnv_1.png",
+            "icon": "none"
+          }
+        },
+        "icon_giJTEK": {
+          "type": "icon",
+          "settings": {
+            "url": "",
+            "heading": "Precision Biotech",
+            "heading_width": 30,
+            "text": "Specialized bacteria target and break down waste at the source.",
+            "text_width": 30,
+            "image": "shopify://shop_images/Gemini_Generated_Image_kgcqodkgcqodkgcq_1.png",
+            "icon": "none"
+          }
+        },
+        "icon_UtBqDi": {
+          "type": "icon",
+          "settings": {
+            "url": "",
+            "heading": "For Every Space",
+            "heading_width": 30,
+            "text": "Effective solutions for both industrial operations and everyday homes.",
+            "text_width": 30,
+            "image": "shopify://shop_images/Gemini_Generated_Image_kdus6nkdus6nkdus_1.png",
+            "icon": "check_mark"
+          }
+        },
+        "icon_zmYHgL": {
+          "type": "icon",
+          "settings": {
+            "url": "",
+            "heading": "Proven Since 1990",
+            "heading_width": 30,
+            "text": "Decades of expertise delivering reliable, long-term results.",
+            "text_width": 30,
+            "image": "shopify://shop_images/Gemini_Generated_Image_vle8ovle8ovle8ov_1.png",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "icon_kcbVBw",
+        "icon_giJTEK",
+        "icon_UtBqDi",
+        "icon_zmYHgL"
+      ],
+      "name": "Features Icons",
+      "settings": {
+        "color_scheme": "inverse",
+        "section_style": "horizontal",
+        "column_alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_size": "f-28",
+        "text_size": "f-12",
+        "padding_top": 36,
+        "padding_top_mobile": 40,
+        "padding_bottom": 36,
+        "padding_bottom_mobile": 36
       }
     },
     "about_us": {
@@ -217,6 +367,7 @@
       "settings": {
         "title": "Collections",
         "heading_size": "h2",
+        "coll_description": "Collection Description",
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
@@ -240,6 +391,9 @@
   },
   "order": [
     "hero",
+    "collection_list_paLgC7",
+    "rich_text_F8MtNi",
+    "features_icons_RPt9pf",
     "about_us",
     "brand_statement_one",
     "multicolumn_Xx8RjV",

@@ -1,2 +1,50 @@
 .collection-list{margin-top:0;margin-bottom:0}.collection-list-title{margin:0}@media screen and (max-width: 749px){.collection-list:not(.slider){padding-left:0;padding-right:0}.section-collection-list .page-width{padding-left:0;padding-right:0}.section-collection-list .collection-list:not(.slider){padding-left:1.5rem;padding-right:1.5rem}}.collection-list__item:only-child{max-width:100%;width:100%}@media screen and (max-width: 749px){.slider.collection-list--1-items{padding-bottom:0}}@media screen and (min-width: 750px) and (max-width: 989px){.slider.collection-list--1-items,.slider.collection-list--2-items,.slider.collection-list--3-items,.slider.collection-list--4-items{padding-bottom:0}}@media screen and (min-width: 750px){.collection-list__item a:hover{box-shadow:none}}@media screen and (max-width: 989px){.collection-list.slider .collection-list__item{max-width:100%}}.collection-list-view-all{margin-top:2rem}
 /*# sourceMappingURL=/s/files/1/0666/3752/9246/t/2/assets/section-collection-list.css.map?v=1730755925 */
+.collection-list-wrapper .title-wrapper-with-link{
+  flex-direction: column;
+  align-items: center;
+}
+.collection-list-wrapper .collection-list-description{
+  color: #383838;
+  font-size: clamp(14px,2vw,18px);
+  font-weight: 500;
+  letter-spacing: 0;
+}
+.collection-list-wrapper .card .card__media::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  transition: all ease-in-out 0.3s;
+}
+.collection-list-wrapper .card:hover .card__media::before{
+  background-color: rgba(0,0,0,0.2);
+}
+.collection-list-wrapper .see-products{
+      position: absolute;
+    width: fit-content;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 0%);
+    font-size: 12px;
+    font-weight: 700 !important;
+    opacity: 0;
+    transition: all ease-in-out 0.3s;
+}
+.see-products.button--primary{
+  --initial-gradient:linear-gradient(rgb(15,72,114), rgb(15,72,114));
+  padding: 0;
+  min-height: 35px;
+}
+.collection-list-wrapper .card:hover .see-products{
+  transform: translate(-50%, -50%);
+  opacity: 1;
+}
+@media screen and (min-width: 990px){
+  .collection-list-wrapper .grid__item:nth-child(2n){
+    margin-top: 2.4rem;
+  }
+}

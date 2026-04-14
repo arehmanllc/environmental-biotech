@@ -34,7 +34,11 @@
         >
           {{ section.settings.title }}
         </h2>
-
+      {% if section.settings.coll_description != blank %}
+        <div class="collection-list-description {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+          {{ section.settings.coll_description }}
+        </div>
+      {% endif %}
         {%- if section.settings.show_view_all and show_mobile_slider -%}
           <a
             href="{{ routes.collections_url }}"
@@ -76,7 +80,8 @@
               card_collection: block.settings.collection,
               media_aspect_ratio: section.settings.image_ratio,
               columns: columns,
-              placeholder_image: placeholder_image
+              placeholder_image: placeholder_image,
+              coll_image: block.settings.coll_image
             %}
           </li>
         {%- endfor -%}
@@ -176,6 +181,12 @@
       ],
       "default": "h1",
       "label": "t:sections.all.heading_size.label"
+    },
+     {
+      "type": "inline_richtext",
+      "id": "coll_description",
+      "default": "Collection Description",
+      "label": "Collection Description"
     },
     {
       "type": "select",
@@ -280,7 +291,11 @@
           "type": "collection",
           "id": "collection",
           "label": "t:sections.collection-list.blocks.featured_collection.settings.collection.label"
-        }
+        },{
+        "type": "image_picker",
+        "id": "coll_image",
+        "label": "Collection Image(Optional)"
+      }
       ]
     }
   ],
