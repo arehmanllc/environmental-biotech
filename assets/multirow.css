@@ -1,0 +1,24 @@
+.multirow .image-with-text__heading{
+  color: #0F4872;
+}
+.multirow .image-with-text__text{
+  letter-spacing: 0;
+  font-weight: 500;
+}
+.multirow .image-with-text__media{
+  border: unset;
+}
+.multirow .image-with-text__media img{
+  border-top-left-radius: calc(var(--media-radius) - var(--media-border-width)) !important;
+  border-bottom-left-radius: calc(var(--media-radius) - var(--media-border-width)) !important;
+}
+@media screen and (max-width: 749px){
+  .multirow .image-with-text .gradient{
+    padding: 2.5rem;
+  }
+}
+@media screen and (max-width: 989px){
+   .multirow__inner.page-width{
+    padding: 0 1.5rem;
+  }
+}
