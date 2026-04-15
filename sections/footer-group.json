@@ -14,7 +14,20 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "brand_information_AwFwmk": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        },
         "link_list_7Xz637": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "link_list_nmqXie": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
@@ -30,12 +43,14 @@
         }
       },
       "block_order": [
+        "brand_information_AwFwmk",
         "link_list_7Xz637",
+        "link_list_nmqXie",
         "text_DwJNrP"
       ],
       "custom_css": [],
       "settings": {
-        "color_scheme": "scheme-5514f9f2-8755-48cb-bb30-633f4eff8a4d",
+        "color_scheme": "inverse",
         "newsletter_enable": true,
         "newsletter_heading": "<strong>Sign up for updates</strong>",
         "enable_follow_on_shop": true,

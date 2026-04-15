@@ -107,9 +107,10 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "scheme-0568bc21-c93b-4fa1-bda9-8592d5a6d944",
     "sold_out_badge_color_scheme": "scheme-0568bc21-c93b-4fa1-bda9-8592d5a6d944",
-    "brand_headline": "Dawn",
-    "brand_description": "<p>High Tide is a Los Angeles-based jewelry store that crafts unique, nature-inspired pieces, blending the city's vibrant landscapes with ethically sourced materials to create a testament to the earth's raw beauty.</p>",
-    "brand_image_width": 465,
+    "brand_headline": "",
+    "brand_description": "<p>Innovative, eco-friendly biological solutions for odor control, grease management, and wastewater treatment — trusted since 1990.</p>",
+    "brand_image": "shopify://shop_images/header-logo-x1_2_1.png",
+    "brand_image_width": 295,
     "social_facebook_link": "",
     "social_instagram_link": "http://instagram.com",
     "social_youtube_link": "youtube.com",
@@ -207,11 +208,11 @@
       },
       "scheme-489d8fb5-90b8-48be-904d-2e043835ded4": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#e4ebf0",
           "background_gradient": "",
-          "text": "#0f4872",
-          "button": "#f5f5f5",
-          "button_label": "#252525",
+          "text": "#383838",
+          "button": "#0f4872",
+          "button_label": "#ffffff",
           "secondary_button_label": "#f5f5f5",
           "shadow": "#121212"
         }
