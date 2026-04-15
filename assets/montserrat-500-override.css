@@ -9,12 +9,11 @@
 button,
 .field__input[style*="font-weight: 500"],
 .b-500 {
-  font-family: 'Montserrat', var(--font-body-family) !important;
-  font-weight: 500 !important;
+  font-weight: 500;
 }
 
 /* Ensure smooth loading */
 .font-montserrat-500 {
-  font-family: 'Montserrat', var(--font-body-family) !important;
-  font-weight: 500 !important;
+  font-family: 'Montserrat', var(--font-body-family);
+  font-weight: 500;
 }
