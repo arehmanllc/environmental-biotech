@@ -35,6 +35,9 @@
         <h2 class="title inline-richtext {{ section.settings.heading_size }}">
           {{ section.settings.title }}
         </h2>
+        {% if section.settings.description != blank %}
+          <div class="multicol-desc">{{ section.settings.description }}</div>
+        {% endif %}
         {%- if section.settings.button_label != blank and show_mobile_slider -%}
           <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">
             {{- section.settings.button_label | escape -}}
@@ -123,11 +126,11 @@
                   <h3 class="inline-richtext">{{ block.settings.title }}</h3>
                 {%- endif -%}
                 {%- if block.settings.text != blank -%}
-                  <div class="rte">{{ block.settings.text }}</div>
+                  <div class="rte" {% if block.settings.bullet_points_image != blank %}style="--bullet_points_image: url('{{ block.settings.bullet_points_image | img_url: 'master' }}');"{% endif %}>{{ block.settings.text }}</div>
                 {%- endif -%}
                 {%- if block.settings.link_label != blank -%}
                   <a
-                    class="link animate-arrow"
+                    class="button button--primary"
                     {% if block.settings.link == blank %}
                       role="link" aria-disabled="true"
                     {% else %}
@@ -232,6 +235,10 @@
       ],
       "default": "h1",
       "label": "t:sections.all.heading_size.label"
+    },{
+      "type": "inline_richtext",
+      "id": "description",
+      "label": "Description"
     },
     {
       "type": "select",
@@ -407,6 +414,10 @@
           "id": "text",
           "default": "t:sections.multicolumn.blocks.column.settings.text.default",
           "label": "t:sections.multicolumn.blocks.column.settings.text.label"
+        },{
+          "type": "image_picker",
+          "id": "bullet_points_image",
+          "label": "Bullet Points Image (Optional)"
         },
         {
           "type": "text",
