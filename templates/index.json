@@ -64,28 +64,32 @@
           "type": "featured_collection",
           "settings": {
             "collection": "dipstick-pro™",
-            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_1.png"
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_1.png",
+            "coll_tagline": "Accurate measurement and collection  of core samples from Grease Traps, Interceptors, and Lift Stations etc"
           }
         },
         "featured_collection_rtFK4B": {
           "type": "featured_collection",
           "settings": {
             "collection": "drainage",
-            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_2.png"
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_2.png",
+            "coll_tagline": "Supports healthy septic system balance"
           }
         },
         "featured_collection_FPF9w8": {
           "type": "featured_collection",
           "settings": {
             "collection": "mineral-oil-elimination",
-            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_3.png"
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_3.png",
+            "coll_tagline": "Advanced Microbial Remediation technology for Hydrocarbon cleanup\" instead of \"Quick and accurate contamination checks"
           }
         },
         "featured_collection_Qx8jwa": {
           "type": "featured_collection",
           "settings": {
             "collection": "odor-elimination",
-            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_4.png"
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_4.png",
+            "coll_tagline": "Advanced odor elimination at the source"
           }
         }
       },
@@ -142,10 +146,10 @@
           "settings": {
             "url": "",
             "heading": "Naturally Powerful",
-            "heading_width": 30,
+            "heading_width": 24,
             "text": "Safe, eco-conscious solutions that work without harsh chemicals.",
-            "text_width": 30,
-            "image": "shopify://shop_images/Gemini_Generated_Image_ppnvrnppnvrnppnv_1.png",
+            "text_width": 25,
+            "image": "shopify://shop_images/Gemini_Generated_Image_ppnvrnppnvrnppnv_2.png",
             "icon": "none"
           }
         },
@@ -157,7 +161,7 @@
             "heading_width": 30,
             "text": "Specialized bacteria target and break down waste at the source.",
             "text_width": 30,
-            "image": "shopify://shop_images/Gemini_Generated_Image_kgcqodkgcqodkgcq_1.png",
+            "image": "shopify://shop_images/Gemini_Generated_Image_kgcqodkgcqodkgcq_1_1.png",
             "icon": "none"
           }
         },
@@ -169,7 +173,7 @@
             "heading_width": 30,
             "text": "Effective solutions for both industrial operations and everyday homes.",
             "text_width": 30,
-            "image": "shopify://shop_images/Gemini_Generated_Image_kdus6nkdus6nkdus_1.png",
+            "image": "shopify://shop_images/Gemini_Generated_Image_kdus6nkdus6nkdus_1_1.png",
             "icon": "check_mark"
           }
         },
@@ -181,7 +185,7 @@
             "heading_width": 30,
             "text": "Decades of expertise delivering reliable, long-term results.",
             "text_width": 30,
-            "image": "shopify://shop_images/Gemini_Generated_Image_vle8ovle8ovle8ov_1.png",
+            "image": "shopify://shop_images/Gemini_Generated_Image_vle8ovle8ovle8ov_1_1.png",
             "icon": "check_mark"
           }
         }
@@ -200,11 +204,59 @@
         "columns_desktop": 4,
         "columns_mobile": "2",
         "heading_size": "f-28",
-        "text_size": "f-12",
+        "text_size": "f-18",
         "padding_top": 36,
         "padding_top_mobile": 40,
         "padding_bottom": 36,
         "padding_bottom_mobile": 36
+      }
+    },
+    "multicolumn_Xx8RjV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nmrrUt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11da35d2-6ae4-41ce-9b3d-a38d6cdd68b8_1.png",
+            "title": "Commercial and Industrial Solutions",
+            "text": "<ul><li>Drain Lines & Grease Traps</li><li>Bar Drains and Soda Fountains</li><li>Urinals and Urine Odors</li><li>Commercial Odor Control</li><li>Dipstick Pro™ Sampler</li></ul><p></p>",
+            "bullet_points_image": "shopify://shop_images/Vector_8.svg",
+            "link_label": "Find out more",
+            "link": "shopify://pages/commercial-drainage-overview"
+          }
+        },
+        "column_F3xLDg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/family-kitchen-2_1.png",
+            "title": "Residential Solutions",
+            "text": "<ul><li>Kitchen and Bath Drains</li><li>Urine Odors</li><li>Residential Odor Control</li><li>Disinfection and  Sanitizing Products</li><li>Restore & maintain septic system health</li></ul>",
+            "bullet_points_image": "shopify://shop_images/Vector_8.svg",
+            "link_label": "Find out more",
+            "link": "shopify://pages/residential-solutions-overview"
+          }
+        }
+      },
+      "block_order": [
+        "column_nmrrUt",
+        "column_F3xLDg"
+      ],
+      "settings": {
+        "title": "Environmental Biotech Solutions",
+        "heading_size": "h1",
+        "description": "Advanced biotech solutions tailored for both professional operations and home environments.",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "about_us": {
@@ -292,70 +344,28 @@
         "padding_bottom": 100
       }
     },
-    "multicolumn_Xx8RjV": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_nmrrUt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/11da35d2-6ae4-41ce-9b3d-a38d6cdd68b8.jpg",
-            "title": "Commercial and Industrial Solutions",
-            "text": "<ul><li>Drain Lines & Grease Traps</li><li>Bar Drains and Soda Fountains</li><li>Urinals and Urine Odors</li><li>Commercial Odor Control</li><li>Grease and Sludge Sampling</li><li>Dipstick Pro™ Sampler</li></ul><p></p>",
-            "link_label": "Find out more",
-            "link": "shopify://pages/commercial-drainage-overview"
-          }
-        },
-        "column_F3xLDg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/family-kitchen-2.jpg",
-            "title": "Residential Solutions",
-            "text": "<ul><li>Kitchen and Bath Drains</li><li>Urine Odors</li><li>Residential Odor Control</li><li>Disinfection and  Sanitizing Products</li></ul>",
-            "link_label": "Find out more",
-            "link": "shopify://pages/residential-solutions-overview"
-          }
-        }
-      },
-      "block_order": [
-        "column_nmrrUt",
-        "column_F3xLDg"
-      ],
-      "settings": {
-        "title": "EBI Solutions",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Shop Now",
-        "button_link": "",
-        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collection_list_QBBk9D": {
       "type": "collection-list",
       "blocks": {
         "featured_collection_NJwFAe": {
           "type": "featured_collection",
           "settings": {
-            "collection": "dipstick-pro™"
+            "collection": "dipstick-pro™",
+            "coll_tagline": ""
           }
         },
         "featured_collection_faxPmU": {
           "type": "featured_collection",
           "settings": {
-            "collection": "odor-elimination"
+            "collection": "odor-elimination",
+            "coll_tagline": ""
           }
         },
         "featured_collection_qGWVTe": {
           "type": "featured_collection",
           "settings": {
-            "collection": "drainage"
+            "collection": "drainage",
+            "coll_tagline": ""
           }
         }
       },
@@ -394,9 +404,9 @@
     "collection_list_paLgC7",
     "rich_text_F8MtNi",
     "features_icons_RPt9pf",
+    "multicolumn_Xx8RjV",
     "about_us",
     "brand_statement_one",
-    "multicolumn_Xx8RjV",
     "collection_list_QBBk9D",
     "contact_form"
   ]
