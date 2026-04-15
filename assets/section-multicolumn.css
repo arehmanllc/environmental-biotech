@@ -29,6 +29,9 @@
   padding-left: 5rem; /* Space for the image marker */
   margin-bottom: 1.5rem;
 }
+.multicolumn .button.button--primary .svg-wrapper{
+  align-items: flex-end;
+}
 
 .multicolumn .multicolumn-card__info li::before {
   content: "";

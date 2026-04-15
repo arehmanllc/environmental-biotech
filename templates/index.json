@@ -259,42 +259,222 @@
         "padding_bottom": 36
       }
     },
-    "about_us": {
-      "type": "image-with-text",
+    "multirow_Lh8VmC": {
+      "type": "multirow",
       "blocks": {
-        "heading_tdAAEF": {
-          "type": "heading",
+        "row_MkJHfB": {
+          "type": "row",
           "settings": {
+            "image": "shopify://shop_images/dip-stick-pro-by-environmental-biotech_83c01750-a2ee-40e7-bd29-9ff4d89a9590_1.png",
+            "caption": "",
             "heading": "About us",
-            "heading_size": "h1"
-          }
-        },
-        "text_NVRfWA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Environmental Biotech is a trusted global innovator in providing sustainable, eco-friendly solutions for wastewater treatment, drainage issues, FOG (fats, oils, and grease) buildup, <a href=\"pages/mineral-oil-elimination-system-moes\">mineral oil contamination</a>, sanitation challenges, and odor control. We proudly serve commercial, municipal, industrial, and residential sectors with tailored bioremediation programs that deliver real, measurable results.</p><p>Since 1990, Environmental Biotech (EB) has led the bioremediation industry by leveraging our advanced in-house laboratory to cultivate proprietary blends of live, vegetative bacteria. These specialized strains are scientifically engineered to break down organic matter—including sugars, starches, FOG, and mineral oils—at the source, preventing drain blockages and reducing costly maintenance.</p>",
-            "text_style": "body"
+            "text": "<p>Environmental Biotech is a trusted global innovator in providing sustainable, eco-friendly solutions for wastewater treatment, drainage issues, FOG (fats, oils, and grease) buildup, hydrocarbon oil contamination, sanitation challenges, and odor control. We proudly serve commercial, municipal, industrial, and residential sectors with tailored bioremediation programs that deliver real, measurable results.<br/><br/>Since 1990, Environmental Biotech (EB) has led the bioremediation industry by leveraging our advanced in-house laboratory to cultivate proprietary blends of live, vegetative bacteria. These specialized strains are scientifically engineered to break down organic matter—including sugars, starches, FOG, and hydrocarbon oils—at the source, preventing drain blockages and reducing costly maintenance.</p>",
+            "button_label": "Learn More",
+            "button_link": "shopify://blogs/news"
           }
         }
       },
       "block_order": [
-        "heading_tdAAEF",
-        "text_NVRfWA"
+        "row_MkJHfB"
       ],
+      "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image": "shopify://shop_images/dip-stick-pro-by-environmental-biotech_83c01750-a2ee-40e7-bd29-9ff4d89a9590.jpg",
-        "height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
-        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
-        "image_behavior": "none",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "accent-2",
+        "row_color_scheme": "scheme-489d8fb5-90b8-48be-904d-2e043835ded4",
         "mobile_content_alignment": "left",
-        "padding_top": 68,
-        "padding_bottom": 48
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_wKAYwt": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "The Bestsellers",
+        "heading_size": "h1",
+        "description": "<p>Advanced biotech solutions designed to break down waste, eliminate odor, and deliver long-lasting results</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "drainage",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_XxUeWH": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_gLggTL": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Total Solutions Provider</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_FBBahf": {
+          "type": "text",
+          "settings": {
+            "text": "Our mission is to deliver expert, sustainable solutions for drain line management, sanitation challenges, and odor control—targeting pollutant discharge issues at their source. By fostering long-term partnerships with our clients, we gain deeper insights into their operational needs, allowing us to design and implement cost-effective, environmentally responsible strategies that drive lasting results.",
+            "text_style": "body"
+          }
+        },
+        "buttons_VByf7b": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://pages/commercial-and-industrial-solutions",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gLggTL",
+        "text_FBBahf",
+        "buttons_VByf7b"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/disinfection-equipment-1_1.png",
+        "image_overlay_opacity": 40,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_product_nzD3NQ": {
+      "type": "featured-product",
+      "blocks": {
+        "text_bMcAc9": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_JCbGGj": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_yrzdWN": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_zaAF6z": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_88bne4": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_WPLjM3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_mrx7BD": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_bMcAc9",
+        "title_JCbGGj",
+        "price_yrzdWN",
+        "variant_picker_zaAF6z",
+        "quantity_selector_88bne4",
+        "buy_buttons_WPLjM3",
+        "share_mrx7BD"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "odor-eliminator-concentrate",
+        "color_scheme": "accent-2",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_cWMXyb": {
+      "type": "multirow",
+      "blocks": {
+        "row_Cnkw6H": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Disinfection-technician-1-800x533_1.png",
+            "caption": "",
+            "heading": "Why use our products?",
+            "text": "<p><strong>Environmentally conscious solutions for everyday inconveniences</strong></p><ul><li>Advanced Biological & Enzymatic Solutions</li><li>EPA Registered Products</li><li>Proven Effectiveness</li><li>Commercial, Industrial, and Residential Applications</li><li>Disinfection and Sanitation Equipment</li></ul>",
+            "button_label": "Learn More",
+            "button_link": "shopify://blogs/news"
+          }
+        }
+      },
+      "block_order": [
+        "row_Cnkw6H"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "accent-2",
+        "row_color_scheme": "scheme-489d8fb5-90b8-48be-904d-2e043835ded4",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "brand_statement_one": {
@@ -344,50 +524,6 @@
         "padding_bottom": 100
       }
     },
-    "collection_list_QBBk9D": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_NJwFAe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dipstick-pro™",
-            "coll_tagline": ""
-          }
-        },
-        "featured_collection_faxPmU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "odor-elimination",
-            "coll_tagline": ""
-          }
-        },
-        "featured_collection_qGWVTe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "drainage",
-            "coll_tagline": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_NJwFAe",
-        "featured_collection_faxPmU",
-        "featured_collection_qGWVTe"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h2",
-        "coll_description": "Collection Description",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "contact_form": {
       "type": "contact-form",
       "settings": {
@@ -405,9 +541,12 @@
     "rich_text_F8MtNi",
     "features_icons_RPt9pf",
     "multicolumn_Xx8RjV",
-    "about_us",
+    "multirow_Lh8VmC",
+    "featured_collection_wKAYwt",
+    "image_banner_XxUeWH",
+    "featured_product_nzD3NQ",
+    "multirow_cWMXyb",
     "brand_statement_one",
-    "collection_list_QBBk9D",
     "contact_form"
   ]
 }
