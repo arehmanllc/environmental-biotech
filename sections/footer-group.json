@@ -17,7 +17,7 @@
         "brand_information_AwFwmk": {
           "type": "brand_information",
           "settings": {
-            "show_social": true
+            "show_social": false
           }
         },
         "link_list_7Xz637": {
@@ -38,7 +38,13 @@
           "type": "text",
           "settings": {
             "heading": "Contact information",
-            "subtext": "<p>sales@ebiorg.ca<br/>(780) 966-7134<br/>11665 147st NW,<br/>Edmonton, AB, T5M 1W3</p>"
+            "subtext": "",
+            "phone_image": "shopify://shop_images/Vector_9.svg",
+            "phone_nmbr": "<p>1-587-557-2247</p>",
+            "email_image": "shopify://shop_images/Icon_1.svg",
+            "email": "<p>sales@ebiorg.ca</p>",
+            "location_image": "shopify://shop_images/Icon.svg",
+            "location_id": "<p>11665 147st NW,<br/>Edmonton, AB, T5M 1W3</p>"
           }
         }
       },
