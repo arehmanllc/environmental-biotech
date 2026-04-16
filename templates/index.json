@@ -372,6 +372,37 @@
         "show_text_below": false
       }
     },
+    "rich_text_FB9P6r": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PDEXQx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Product of the Month",
+            "heading_size": "h1"
+          }
+        },
+        "text_mpK4j3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Top-performing solution trusted for real results</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PDEXQx",
+        "text_mpK4j3"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "featured_product_nzD3NQ": {
       "type": "featured-product",
       "blocks": {
@@ -401,6 +432,7 @@
         },
         "quantity_selector_88bne4": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons_WPLjM3": {
@@ -433,11 +465,102 @@
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
-        "media_fit": "cover",
+        "media_fit": "contain",
         "media_position": "left",
         "image_zoom": "lightbox",
         "hide_variants": true,
         "enable_video_looping": false,
+        "gallery_layout": "thumbnail_slider",
+        "mobile_thumbnails": "hide",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_BBUY3g": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_z4FTnJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Solutions for Every Environment",
+            "heading_size": "h1"
+          }
+        },
+        "text_T6ebjB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tailored biological solutions designed for real-world challenges across industries and homes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_z4FTnJ",
+        "text_T6ebjB"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "images_collage_yAT9FT": {
+      "type": "images-collage",
+      "blocks": {
+        "image_block_PtNTGi": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Img.png",
+            "img_heading": "Restaurants",
+            "img_description": "Keep drains flowing, eliminate foul odors, and maintain hygiene with powerful biological treatments built for busy kitchens."
+          }
+        },
+        "image_block_bRteNW": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Img_1.png",
+            "img_heading": "Property Management",
+            "img_description": "Reduce complaints, prevent blockages, and maintain clean, odor-free spaces across residential and commercial buildings."
+          }
+        },
+        "image_block_A7YezL": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Img_2_ad391ada-3062-4a9b-b2c8-7efac032dded.png",
+            "img_heading": "Municipal",
+            "img_description": "Reliable, eco-friendly treatments for wastewater, sewer lines, and public sanitation systems. Built for long-term performance."
+          }
+        },
+        "image_block_TQWrWx": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Img_3.png",
+            "img_heading": "Industrial",
+            "img_description": "Break down organic waste, control odors, and improve system efficiency with high-strength microbial solutions."
+          }
+        },
+        "image_block_UqtLze": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_ov7fq9ov7fq9ov7f_1.png",
+            "img_heading": "Homeowners",
+            "img_description": "Protect your home with gentle yet powerful solutions for drains, septic systems, and odor control. Safe for families and pets."
+          }
+        }
+      },
+      "block_order": [
+        "image_block_PtNTGi",
+        "image_block_bRteNW",
+        "image_block_A7YezL",
+        "image_block_TQWrWx",
+        "image_block_UqtLze"
+      ],
+      "name": "Images Collage",
+      "settings": {
+        "color_scheme": "scheme-95e8c3dd-ad27-4869-af40-f9ca0f9672fa",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -477,55 +600,9 @@
         "padding_bottom": 36
       }
     },
-    "brand_statement_one": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_tdAAEF": {
-          "type": "heading",
-          "settings": {
-            "heading": "Total Solutions Provider",
-            "heading_size": "h1"
-          }
-        },
-        "text_NVRfWA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our mission is to deliver expert, sustainable solutions for <a href=\"/collections/drainage\">drain line management</a>, sanitation challenges, and odor control—targeting pollutant discharge issues at their source. By fostering long-term partnerships with our clients, we gain deeper insights into their operational needs, allowing us to design and implement cost-effective, environmentally responsible strategies that drive lasting results.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_4C8gRf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify://collections/all",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_tdAAEF",
-        "text_NVRfWA",
-        "button_4C8gRf"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/disinfection-equipment-1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
-        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 48,
-        "padding_bottom": 100
-      }
-    },
     "contact_form": {
       "type": "contact-form",
+      "disabled": true,
       "settings": {
         "heading": "Sign up for our newsletter to hear about specials, promotions, new products, and events.",
         "heading_size": "h1",
@@ -544,9 +621,11 @@
     "multirow_Lh8VmC",
     "featured_collection_wKAYwt",
     "image_banner_XxUeWH",
+    "rich_text_FB9P6r",
     "featured_product_nzD3NQ",
+    "rich_text_BBUY3g",
+    "images_collage_yAT9FT",
     "multirow_cWMXyb",
-    "brand_statement_one",
     "contact_form"
   ]
 }
