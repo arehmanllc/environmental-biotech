@@ -263,10 +263,11 @@
                                       {%- endif -%}
                                     </div>
                                   {%- else -%}
-                                    {{- 'square.svg' | inline_asset_content -}}
-
+                                    {% comment %} {{- 'square.svg' | inline_asset_content -}} {% endcomment %}
+                                    {% render 'icon-suqare' %}
                                     <div class="svg-wrapper">
-                                      {{- 'icon-checkmark.svg' | inline_asset_content -}}
+                                      {% comment %} {{- 'icon-checkmark.svg' | inline_asset_content -}} {% endcomment %}
+                                      {% render 'icon-checkmark-circle' %}
                                     </div>
                                   {%- endif -%}
 

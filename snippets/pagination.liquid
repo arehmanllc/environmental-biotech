@@ -25,7 +25,9 @@
               aria-label="{{ 'general.pagination.previous' | t }}"
             >
               <span class="svg-wrapper">
-                {{- 'icon-caret.svg' | inline_asset_content -}}
+                <svg class="reverse-arrow" xmlns="http://www.w3.org/2000/svg" width="11" height="17" viewBox="0 0 11 17" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10.626 8.32648L2.77582 0.476258C2.14082 -0.158753 1.11126 -0.158753 0.476258 0.476258C-0.158753 1.11127 -0.158753 2.14082 0.476258 2.77584L6.0269 8.32648L0.47626 13.8771C-0.15875 14.5121 -0.158753 15.5417 0.476258 16.1767C1.11126 16.8117 2.14082 16.8117 2.77582 16.1767L10.626 8.32648Z" fill="#0F4872"/>
+                </svg>
               </span>
             </a>
           </li>
@@ -46,7 +48,7 @@
                 <a
                   role="link"
                   aria-disabled="true"
-                  class="pagination__item pagination__item--current light"
+                  class="pagination__item pagination__item--current target"
                   aria-current="page"
                   aria-label="{{ 'general.pagination.page' | t: number: part.title }}"
                 >
@@ -67,7 +69,9 @@
               aria-label="{{ 'general.pagination.next' | t }}"
             >
               <span class="svg-wrapper">
-                {{- 'icon-caret.svg' | inline_asset_content -}}
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17" viewBox="0 0 11 17" fill="none">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M10.626 8.32648L2.77582 0.476258C2.14082 -0.158753 1.11126 -0.158753 0.476258 0.476258C-0.158753 1.11127 -0.158753 2.14082 0.476258 2.77584L6.0269 8.32648L0.47626 13.8771C-0.15875 14.5121 -0.158753 15.5417 0.476258 16.1767C1.11126 16.8117 2.14082 16.8117 2.77582 16.1767L10.626 8.32648Z" fill="#0F4872"/>
+                </svg>
               </span>
             </a>
           </li>
