@@ -1,0 +1,117 @@
+{{ 'images-collage.css' | asset_url | stylesheet_tag }}
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+<section class="images-collage color-{{ section.settings.color_scheme }} gradient isolate">
+  <div class="images-collage-container page-width section-{{ section.id }}-padding">
+    
+    {% for block in section.blocks %}
+      <div class="images-collage-item" {{ block.shopify_attributes }}>
+        
+        {% if block.settings.image %}
+          <img 
+            src="{{ block.settings.image | image_url: width: 800 }}" 
+            alt="{{ block.settings.img_heading | escape }}"
+            loading="lazy"
+          >
+        {% else %}
+          {{ 'detailed-apparel-1' | placeholder_svg_tag: 'placeholder-svg' }}
+        {% endif %}
+
+        <div class="text-area">
+          <h3>
+            {{ block.settings.img_heading | default: "Sample Heading" }}
+          </h3>
+          <p>
+            {{ block.settings.img_description | default: "Sample description text." }}
+          </p>
+        </div>
+
+      </div>
+    {% endfor %}
+
+  </div>
+</section>
+{% schema %}
+{
+  "name": "Images Collage",
+  "settings": [ {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "info": "t:sections.all.colors.has_cards_info",
+      "default": "scheme-1"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }],
+    "max_blocks": 5,
+  "blocks": [
+    {
+      "type": "image_block",
+      "name": "Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "img_heading",
+          "label": "Image Heading"
+        },
+        {
+          "type": "text",
+          "id": "img_description",
+          "label": "Image Description"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Images Collage",
+      "category": "Image",
+      "blocks": [
+        { "type": "image_block" },
+        { "type": "image_block" },
+        { "type": "image_block" },
+        { "type": "image_block" },
+        { "type": "image_block" }
+      ]
+    }
+  ]
+}
+{% endschema %}
