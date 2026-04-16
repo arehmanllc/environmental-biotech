@@ -28,3 +28,20 @@
   width: 10rem;
   padding: 0.5rem;
 }
+.list-menu__item.facets__item,.facets__selected{
+  font-weight: 400;
+  font-size: 14px;
+  color: #333333;
+}
+.facets__price .field::after{
+  border-radius: 6px;
+}
+.facets__price .field:hover.field:after{
+  border-radius: 6px;
+}
+.facets__price .field__input:focus{
+  border-radius: 6px;
+}
+.facets__price .field__input{
+  border-radius: 6px;
+}
