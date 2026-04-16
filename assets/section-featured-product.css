@@ -8,5 +8,14 @@
   left: 0;
   height: 100%;
 }
+.product__info-wrapper.grid__item{
+  position: sticky;
+  top: 100px;
+  left: 0;
+  height: 100%;
 }
-  
+}
+.product__media-wrapper slider-component.slider-mobile-gutter:first-of-type {
+  box-shadow: 4px 4px 20px 0px #00000026;
+  border-radius: var(--media-radius);
+}

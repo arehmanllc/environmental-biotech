@@ -978,8 +978,8 @@ a.product__text {
   .product--thumbnail_slider .thumbnail-slider {
     display: flex;
     align-items: center;
+    margin-top: 24px;
   }
-
   .thumbnail-slider .thumbnail-list.slider--tablet-up {
     display: flex;
     padding: 0.5rem;
