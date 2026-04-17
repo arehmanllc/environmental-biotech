@@ -573,6 +573,8 @@ hr {
   display: block;
   font-family: var(--font-body-family);
   font-weight: 700;
+  font-size: 18px;
+  color: #0F4872;
 }
 
 .placeholder {
@@ -3659,4 +3661,7 @@ details-disclosure > details {
 @media screen and (max-width: 749px) {.sm\:f-8  { --font-size: 0.8rem; }.sm\:f-10 { --font-size: 1rem; }.sm\:f-11 { --font-size: 1.1rem; }.sm\:f-12 { --font-size: 1.2rem; }.sm\:f-13 { --font-size: 1.3rem; }.sm\:f-14 { --font-size: 1.4rem; }.sm\:f-15 { --font-size: 1.5rem; }.sm\:f-16 { --font-size: 1.6rem; }.sm\:f-18 { --font-size: 1.8rem; }.sm\:f-20 { --font-size: 2rem; }.sm\:f-24 { --font-size: 2.4rem; }.sm\:center{text-align: center;}}
 #az_reviews .reviews_main_title p{
   text-align: center;
+}
+.font-system{
+  font-family: var(--font-body-family);
 }
