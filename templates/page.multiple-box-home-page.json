@@ -79,15 +79,15 @@
         "button_GHQAhH"
       ],
       "settings": {
-        "image": "shopify://shop_images/Grease-trap-2-1.jpg",
+        "image": "shopify://shop_images/Grease-trap-2-1_1.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
-        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "accent-2",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 20,
@@ -126,15 +126,15 @@
         "button_rhrJtM"
       ],
       "settings": {
-        "image": "shopify://shop_images/dip-stick-pro.jpg",
-        "height": "small",
+        "image": "shopify://shop_images/Grease-trap-2-1_2.png",
+        "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
-        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "accent-2",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 20,
@@ -183,6 +183,7 @@
       "settings": {
         "title": "Commercial Drainage Solutions",
         "heading_size": "h2",
+        "description": "",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -203,19 +204,25 @@
         "featured_collection_xKHrri": {
           "type": "featured_collection",
           "settings": {
-            "collection": "drainage"
+            "collection": "drainage",
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_6.png",
+            "coll_tagline": "Keeps drain lines flowing freely and supports septic system health"
           }
         },
         "featured_collection_NzrUhV": {
           "type": "featured_collection",
           "settings": {
-            "collection": "dipstick-pro™"
+            "collection": "dipstick-pro™",
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_5.png",
+            "coll_tagline": "Accurate measurement and collection  of core samples from Grease Traps, Interceptors, and Lift Stations etc"
           }
         },
         "featured_collection_XtwDnp": {
           "type": "featured_collection",
           "settings": {
-            "collection": "odor-elimination"
+            "collection": "odor-elimination",
+            "coll_image": "shopify://shop_images/dip-stick-pro-1000px_b496a064-e702-4744-ad3e-11dde77b0f6a_7.png",
+            "coll_tagline": "Advanced Odor & Stain Elimination at the Source"
           }
         }
       },
@@ -227,13 +234,14 @@
       "settings": {
         "title": "Product Solutions",
         "heading_size": "h2",
+        "coll_description": "",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 4,
+        "padding_top": 36,
         "padding_bottom": 8
       }
     }

@@ -27,16 +27,30 @@
           "type": "price",
           "settings": {}
         },
+        "icon_with_text_aLfidH": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "image_1": "shopify://shop_images/Vector_12.svg",
+            "heading_1": "Bio Powered",
+            "icon_2": "return",
+            "image_2": "shopify://shop_images/Vector_13.svg",
+            "heading_2": "Breaks Buildup",
+            "icon_3": "truck",
+            "image_3": "shopify://shop_images/Vector_14.svg",
+            "heading_3": "Odor Free",
+            "icon_4": "truck",
+            "image_4": "shopify://shop_images/Vector_15.svg",
+            "heading_4": "For All Systems"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button",
             "swatch_shape": "circle"
           }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -49,6 +63,19 @@
           "type": "description",
           "settings": {}
         },
+        "complementary_gL4tEH": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 1,
+            "pagination_style": "dots",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -60,10 +87,11 @@
         "vendor",
         "title",
         "price",
+        "icon_with_text_aLfidH",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
         "description",
+        "complementary_gL4tEH",
         "share"
       ],
       "settings": {
@@ -82,27 +110,238 @@
         "padding_bottom": 12
       }
     },
+    "rich_text_pA6Kyx": {
+      "type": "rich-text",
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 44
+      }
+    },
+    "rich_text_Gw9r7r": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UPUpnR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Smarter Cleaning. Stronger Results.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UPUpnR"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 44
+      }
+    },
+    "product_features_tabs_JyEFXw": {
+      "type": "product-features-tabs",
+      "blocks": {
+        "tab_en4xzp": {
+          "type": "tab",
+          "settings": {
+            "tab_title": "Bio-Based Technology",
+            "image": "shopify://shop_images/img_1_1.png",
+            "heading": "Our advanced bio-active formulations use live bacteria and enzymes to break down organic waste at the source. Instead of masking problems, they naturally digest grease, sludge, and buildup for long-term system health.",
+            "text": "<ul><li>Breaks Down Grease & Waste</li><li>Live Bacteria Action</li><li>Prevents Buildup</li><li>Long-Term Performance</li></ul>",
+            "bullet_points_image": "shopify://shop_images/Vector_16.svg",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "tab_xxtJ9L": {
+          "type": "tab",
+          "settings": {
+            "tab_title": "Eco-Friendly Solutions",
+            "image": "shopify://shop_images/Img_2_13a6db55-428b-4168-a552-ab688e2988e6.png",
+            "heading": "Safe, non-toxic formulations designed to protect both your systems and the environment. Our solutions work effectively without harsh chemicals, making them ideal for everyday use across residential and commercial settings.",
+            "text": "<ul><li>Non-Toxic & Safe</li><li>Environmentally Friendly</li><li>Safe for Plumbing Systems</li><li>Multi-Use Applications</li></ul>",
+            "bullet_points_image": "shopify://shop_images/Vector_16.svg",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_en4xzp",
+        "tab_xxtJ9L"
+      ],
+      "name": "Product Features Tabs",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "description_style": "body",
+        "color_scheme": "background-2",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_top_mobile": 0,
+        "padding_bottom": 36,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "rich_text_9AppX8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jExpb7": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Bestsellers",
+            "heading_size": "h1"
+          }
+        },
+        "text_37Uc7w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Advanced biotech solutions designed to break down waste, eliminate odor, and deliver long-lasting results</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jExpb7",
+        "text_37Uc7w"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
-        "heading": "You may also like",
+        "heading": "",
         "heading_size": "h2",
-        "products_to_show": 4,
+        "products_to_show": 10,
         "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "color_scheme": "accent-2",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
+        "show_rating": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
         "padding_bottom": 28
+      }
+    },
+    "rich_text_wpxpPh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3JbqKK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Solutions for Every Environment",
+            "heading_size": "h1"
+          }
+        },
+        "text_cXUiAe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tailored biological solutions designed for real-world challenges across industries and homes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3JbqKK",
+        "text_cXUiAe"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "images_collage_TzdzjV": {
+      "type": "images-collage",
+      "blocks": {
+        "image_block_wzYPqm": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Img.png",
+            "img_heading": "Restaurants",
+            "img_description": "Keep drains flowing, eliminate foul odors, and maintain hygiene with powerful biological treatments built for busy kitchens."
+          }
+        },
+        "image_block_rGhyXb": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Img_1.png",
+            "img_heading": "Property Management",
+            "img_description": "Reduce complaints, prevent blockages, and maintain clean, odor-free spaces across residential and commercial buildings."
+          }
+        },
+        "image_block_ADEBxy": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Img_2_ad391ada-3062-4a9b-b2c8-7efac032dded.png",
+            "img_heading": "Municipal",
+            "img_description": "Reliable, eco-friendly treatments for wastewater, sewer lines, and public sanitation systems. Built for long-term performance."
+          }
+        },
+        "image_block_MU6dLe": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Img_3.png",
+            "img_heading": "Industrial",
+            "img_description": "Break down organic waste, control odors, and improve system efficiency with high-strength microbial solutions."
+          }
+        },
+        "image_block_Y8we4J": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_ov7fq9ov7fq9ov7f_1.png",
+            "img_heading": "Homeowners",
+            "img_description": "Protect your home with gentle yet powerful solutions for drains, septic systems, and odor control. Safe for families and pets."
+          }
+        }
+      },
+      "block_order": [
+        "image_block_wzYPqm",
+        "image_block_rGhyXb",
+        "image_block_ADEBxy",
+        "image_block_MU6dLe",
+        "image_block_Y8we4J"
+      ],
+      "name": "Images Collage",
+      "settings": {
+        "color_scheme": "scheme-95e8c3dd-ad27-4869-af40-f9ca0f9672fa",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "rich_text_pA6Kyx",
+    "rich_text_Gw9r7r",
+    "product_features_tabs_JyEFXw",
+    "rich_text_9AppX8",
+    "related-products",
+    "rich_text_wpxpPh",
+    "images_collage_TzdzjV"
   ]
 }
