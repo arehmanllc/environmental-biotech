@@ -43,10 +43,6 @@
             "swatch_shape": "circle"
           }
         },
-        "quantity_selector_AyMPkt": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_Qh88Xy": {
           "type": "buy_buttons",
           "settings": {
@@ -66,13 +62,12 @@
         "title_6g7Kbt",
         "price_6QmpcP",
         "variant_picker_78fhYc",
-        "quantity_selector_AyMPkt",
         "buy_buttons_Qh88Xy",
         "share_LgTiNP"
       ],
       "settings": {
         "product": "flow-fresh",
-        "color_scheme": "scheme-a84f2185-e225-4649-a72c-70fbf8ee76ba",
+        "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
         "constrain_to_viewport": true,
@@ -81,6 +76,8 @@
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
+        "gallery_layout": "thumbnail_slider",
+        "mobile_thumbnails": "hide",
         "padding_top": 20,
         "padding_bottom": 20
       }
